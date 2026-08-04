@@ -1,0 +1,8 @@
+{
+  "loginButton" : {
+    "type" : "ROLE",
+    "value" : "button",
+    "roleName" : "Log In",
+    "description" : "by role: button (name=\"Log In\")"
+  }
+}

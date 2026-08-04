@@ -1,0 +1,6 @@
+com\qa\selfheal\LocatorRepository.class
+com\qa\selfheal\NamedLocatorStrategy.class
+com\qa\selfheal\LocatorStrategy.class
+com\qa\selfheal\NamedLocatorStrategy$1.class
+com\qa\selfheal\SelfHealingLocator.class
+com\qa\selfheal\NamedLocatorStrategy$StrategyType.class
